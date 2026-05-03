@@ -1,0 +1,109 @@
+[
+  {
+    "event_id": "REP-2026-01",
+    "title": "Monthly Reporting Deadline",
+    "category": "Reporting",
+    "type": "Deadline",
+    "date": "2026-01-09",
+    "priority": "High"
+  },
+  {
+    "event_id": "DECK-2026-01",
+    "title": "Monthly Reporting Deck Submission",
+    "category": "Management Deck",
+    "type": "Deliverable",
+    "date": "2026-01-10",
+    "priority": "High"
+  },
+  {
+    "event_id": "CUST-2026-01",
+    "title": "Customer Profitability Analysis",
+    "category": "Analysis",
+    "type": "Analysis",
+    "date": "2026-01-12",
+    "priority": "Medium"
+  },
+
+  {
+    "event_id": "REP-2026-02",
+    "title": "Monthly Reporting Deadline",
+    "category": "Reporting",
+    "type": "Deadline",
+    "date": "2026-02-09",
+    "priority": "High"
+  },
+  {
+    "event_id": "DECK-2026-02",
+    "title": "Monthly Reporting Deck Submission",
+    "category": "Management Deck",
+    "type": "Deliverable",
+    "date": "2026-02-10",
+    "priority": "High"
+  },
+  {
+    "event_id": "CUST-2026-02",
+    "title": "Customer Profitability Analysis",
+    "category": "Analysis",
+    "type": "Analysis",
+    "date": "2026-02-12",
+    "priority": "Medium"
+  },
+
+  {
+    "event_id": "REP-2026-03",
+    "title": "Monthly Reporting Deadline",
+    "category": "Reporting",
+    "type": "Deadline",
+    "date": "2026-03-09",
+    "priority": "High"
+  },
+  {
+    "event_id": "DECK-2026-03",
+    "title": "Monthly Reporting Deck Submission",
+    "category": "Management Deck",
+    "type": "Deliverable",
+    "date": "2026-03-10",
+    "priority": "High"
+  },
+  {
+    "event_id": "CUST-2026-03",
+    "title": "Customer Profitability Analysis",
+    "category": "Analysis",
+    "type": "Analysis",
+    "date": "2026-03-12",
+    "priority": "Medium"
+  },
+  {
+    "event_id": "FCST-2026-Q1",
+    "title": "Quarterly Forecast Submission (Q1)",
+    "category": "Forecast",
+    "type": "Forecast",
+    "date": "2026-03-18",
+    "priority": "High"
+  },
+
+  {
+    "event_id": "FCST-2026-Q2",
+    "title": "Quarterly Forecast Submission (Q2)",
+    "category": "Forecast",
+    "type": "Forecast",
+    "date": "2026-06-18",
+    "priority": "High"
+  },
+  {
+    "event_id": "FCST-2026-Q3",
+    "title": "Quarterly Forecast Submission (Q3)",
+    "category": "Forecast",
+    "type": "Forecast",
+    "date": "2026-09-18",
+    "priority": "High"
+  },
+  {
+    "event_id": "FCST-2026-Q4",
+    "title": "Quarterly Forecast Submission (Q4)",
+    "category": "Forecast",
+    "type": "Forecast",
+    "date": "2026-12-18",
+    "priority": "High"
+  }
+]
