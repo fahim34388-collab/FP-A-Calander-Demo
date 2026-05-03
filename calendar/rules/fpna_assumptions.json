@@ -1,0 +1,8 @@
+{
+  "monthly_reporting_deadline": 9,
+  "monthly_deck_submission": 10,
+  "customer_profitability_analysis": 12,
+  "quarterly_forecast_dates": ["03-18", "06-18", "09-18", "12-18"],
+  "timezone": "Asia/Dhaka",
+  "holiday_adjustment_rule": "If deadline falls within 2 working days of a holiday, suggest working ahead"
+}
