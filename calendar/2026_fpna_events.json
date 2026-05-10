@@ -2,241 +2,132 @@
   {
     "date": "2026-05-11",
     "title": "Monthly Closing",
-    "description": "Monthly Closing – April",
     "category": "Reporting",
     "type": "Deadline",
-    "priority": "High"
-  },
-  {
-    "date": "2026-05-14",
-    "title": "Monthly PPT Comments",
-    "description": "PPT comments – May",
-    "category": "Management Deck",
-    "type": "Review",
-    "priority": "Medium"
-  },
-
-  {
-    "date": "2026-06-08",
-    "title": "WAVE Reporting",
-    "description": "WAVE actuals & KPI reporting",
-    "category": "Reporting",
-    "type": "Submission",
-    "priority": "High"
+    "priority": "High",
+    "holiday_conflict": false,
+    "conflict_reason": null,
+    "adjustment_action": null
   },
   {
     "date": "2026-06-09",
     "title": "Monthly BPC Reporting",
-    "description": "May financial reporting in BPC",
     "category": "Reporting",
     "type": "Deadline",
-    "priority": "High"
-  },
-  {
-    "date": "2026-06-12",
-    "title": "Monthly PPT Comments",
-    "description": "PPT comments – June",
-    "category": "Management Deck",
-    "type": "Review",
-    "priority": "Medium"
+    "priority": "High",
+    "holiday_conflict": false,
+    "conflict_reason": null,
+    "adjustment_action": null
   },
 
-  {
-    "date": "2026-07-14",
-    "title": "WAVE Reporting",
-    "description": "Actuals & KPI submission",
-    "category": "Reporting",
-    "type": "Submission",
-    "priority": "High"
-  },
   {
     "date": "2026-07-17",
     "title": "Forecast 3 – BPC Submission",
-    "description": "Quarterly Forecast submission",
     "category": "Forecast",
     "type": "Deadline",
-    "priority": "High"
-  },
-  {
-    "date": "2026-07-21",
-    "title": "Forecast 3 – MR Deck",
-    "description": "Management review deck",
-    "category": "Forecast",
-    "type": "Deliverable",
-    "priority": "High"
-  },
-  {
-    "date": "2026-07-29",
-    "title": "Forecast 3 – PPT Deck",
-    "description": "Final PPT deck submission",
-    "category": "Forecast",
-    "type": "Submission",
-    "priority": "High"
-  },
-  {
-    "date": "2026-07-31",
-    "title": "Q2 Tax Reporting",
-    "description": "Quarterly tax reporting",
-    "category": "Tax",
-    "type": "Deadline",
-    "priority": "High"
+    "priority": "High",
+    "holiday_conflict": false,
+    "conflict_reason": null,
+    "adjustment_action": null
   },
 
   {
-    "date": "2026-08-10",
-    "title": "Monthly BPC Reporting",
-    "description": "July reporting",
-    "category": "Reporting",
+    "date": "2026-07-31",
+    "title": "Q2 Tax Reporting",
+    "category": "Tax",
     "type": "Deadline",
-    "priority": "High"
+    "priority": "High",
+    "holiday_conflict": false,
+    "conflict_reason": null,
+    "adjustment_action": null
   },
-  {
-    "date": "2026-08-11",
-    "title": "Monthly PPT Comments",
-    "description": "PPT comments – July",
-    "category": "Management Deck",
-    "type": "Review",
-    "priority": "Medium"
-  },
+
   {
     "date": "2026-08-14",
     "title": "WAVE Reporting",
-    "description": "Actuals & KPI reporting",
     "category": "Reporting",
     "type": "Submission",
-    "priority": "High"
+    "priority": "High",
+    "holiday_conflict": true,
+    "conflict_reason": "Occurs 1 day before National Mourning Day (Aug 15)",
+    "adjustment_action": "Complete reporting by Aug 13 to avoid disruption"
   },
+
   {
     "date": "2026-08-21",
     "title": "Guarantee Reporting (Mid-Year)",
-    "description": "Mid-year guarantee reporting",
     "category": "Compliance",
     "type": "Deadline",
-    "priority": "High"
+    "priority": "High",
+    "holiday_conflict": false,
+    "conflict_reason": null,
+    "adjustment_action": null
   },
 
   {
     "date": "2026-09-08",
     "title": "Monthly BPC Reporting",
-    "description": "August reporting",
     "category": "Reporting",
     "type": "Deadline",
-    "priority": "High"
-  },
-  {
-    "date": "2026-09-09",
-    "title": "Monthly PPT Comments",
-    "description": "PPT comments – August",
-    "category": "Management Deck",
-    "type": "Review",
-    "priority": "Medium"
-  },
-  {
-    "date": "2026-09-14",
-    "title": "WAVE Reporting",
-    "description": "Actuals & KPI",
-    "category": "Reporting",
-    "type": "Submission",
-    "priority": "High"
+    "priority": "High",
+    "holiday_conflict": false,
+    "conflict_reason": null,
+    "adjustment_action": null
   },
 
   {
-    "date": "2026-10-08",
-    "title": "Monthly BPC Reporting",
-    "description": "September reporting",
-    "category": "Reporting",
-    "type": "Deadline",
-    "priority": "High"
-  },
-  {
-    "date": "2026-10-09",
-    "title": "Monthly PPT Comments",
-    "description": "PPT comments – September",
-    "category": "Management Deck",
-    "type": "Review",
-    "priority": "Medium"
-  },
-  {
     "date": "2026-10-14",
     "title": "Forecast 4 – BPC Submission",
-    "description": "Quarterly forecast submission",
     "category": "Forecast",
     "type": "Deadline",
-    "priority": "High"
+    "priority": "High",
+    "holiday_conflict": false,
+    "conflict_reason": null,
+    "adjustment_action": null
   },
-  {
-    "date": "2026-10-16",
-    "title": "Forecast 4 – MR Deck",
-    "description": "Management review deck",
-    "category": "Forecast",
-    "type": "Deliverable",
-    "priority": "High"
-  },
+
   {
     "date": "2026-10-16",
     "title": "Q3 Tax Reporting",
-    "description": "Quarterly tax reporting",
     "category": "Tax",
     "type": "Deadline",
-    "priority": "High"
+    "priority": "High",
+    "holiday_conflict": false,
+    "conflict_reason": null,
+    "adjustment_action": null
   },
+
   {
     "date": "2026-10-21",
     "title": "Forecast 4 – PPT Deck",
-    "description": "Final deck submission",
     "category": "Forecast",
     "type": "Submission",
-    "priority": "High"
+    "priority": "High",
+    "holiday_conflict": true,
+    "conflict_reason": "Close to Durga Puja (Oct 22)",
+    "adjustment_action": "Complete submission by Oct 20"
   },
 
   {
     "date": "2026-11-09",
     "title": "Monthly BPC Reporting",
-    "description": "October reporting",
     "category": "Reporting",
     "type": "Deadline",
-    "priority": "High"
-  },
-  {
-    "date": "2026-11-10",
-    "title": "Monthly PPT Comments",
-    "description": "PPT comments – October",
-    "category": "Management Deck",
-    "type": "Review",
-    "priority": "Medium"
-  },
-  {
-    "date": "2026-11-13",
-    "title": "WAVE Reporting",
-    "description": "Actuals & KPI",
-    "category": "Reporting",
-    "type": "Submission",
-    "priority": "High"
+    "priority": "High",
+    "holiday_conflict": false,
+    "conflict_reason": null,
+    "adjustment_action": null
   },
 
   {
-    "date": "2026-12-08",
-    "title": "Monthly BPC Reporting",
-    "description": "November reporting",
-    "category": "Reporting",
-    "type": "Deadline",
-    "priority": "High"
-  },
-  {
-    "date": "2026-12-09",
-    "title": "Monthly PPT Comments",
-    "description": "PPT comments – November",
-    "category": "Management Deck",
-    "type": "Review",
-    "priority": "Medium"
-  },
-  {
     "date": "2026-12-14",
     "title": "WAVE Reporting",
-    "description": "Actuals & KPI",
     "category": "Reporting",
     "type": "Submission",
-    "priority": "High"
+    "priority": "High",
+    "holiday_conflict": true,
+    "conflict_reason": "Occurs 2 days before Victory Day (Dec 16)",
+    "adjustment_action": "Finish by Dec 13 to ensure closure before holiday"
   }
 ]
   }
