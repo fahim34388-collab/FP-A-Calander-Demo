@@ -1,110 +1,244 @@
 [
   {
-    "event_id": "REP-2026-01",
-    "title": "Monthly Reporting Deadline",
+    "date": "2026-05-11",
+    "title": "Monthly Closing",
+    "description": "Monthly Closing – April",
     "category": "Reporting",
     "type": "Deadline",
-    "date": "2026-01-09",
     "priority": "High"
   },
   {
-    "event_id": "DECK-2026-01",
-    "title": "Monthly Reporting Deck Submission",
+    "date": "2026-05-14",
+    "title": "Monthly PPT Comments",
+    "description": "PPT comments – May",
     "category": "Management Deck",
-    "type": "Deliverable",
-    "date": "2026-01-10",
-    "priority": "High"
-  },
-  {
-    "event_id": "CUST-2026-01",
-    "title": "Customer Profitability Analysis",
-    "category": "Analysis",
-    "type": "Analysis",
-    "date": "2026-01-12",
+    "type": "Review",
     "priority": "Medium"
   },
 
   {
-    "event_id": "REP-2026-02",
-    "title": "Monthly Reporting Deadline",
+    "date": "2026-06-08",
+    "title": "WAVE Reporting",
+    "description": "WAVE actuals & KPI reporting",
+    "category": "Reporting",
+    "type": "Submission",
+    "priority": "High"
+  },
+  {
+    "date": "2026-06-09",
+    "title": "Monthly BPC Reporting",
+    "description": "May financial reporting in BPC",
     "category": "Reporting",
     "type": "Deadline",
-    "date": "2026-02-09",
     "priority": "High"
   },
   {
-    "event_id": "DECK-2026-02",
-    "title": "Monthly Reporting Deck Submission",
+    "date": "2026-06-12",
+    "title": "Monthly PPT Comments",
+    "description": "PPT comments – June",
     "category": "Management Deck",
-    "type": "Deliverable",
-    "date": "2026-02-10",
-    "priority": "High"
-  },
-  {
-    "event_id": "CUST-2026-02",
-    "title": "Customer Profitability Analysis",
-    "category": "Analysis",
-    "type": "Analysis",
-    "date": "2026-02-12",
+    "type": "Review",
     "priority": "Medium"
   },
 
   {
-    "event_id": "REP-2026-03",
-    "title": "Monthly Reporting Deadline",
+    "date": "2026-07-14",
+    "title": "WAVE Reporting",
+    "description": "Actuals & KPI submission",
     "category": "Reporting",
-    "type": "Deadline",
-    "date": "2026-03-09",
+    "type": "Submission",
     "priority": "High"
   },
   {
-    "event_id": "DECK-2026-03",
-    "title": "Monthly Reporting Deck Submission",
-    "category": "Management Deck",
-    "type": "Deliverable",
-    "date": "2026-03-10",
-    "priority": "High"
-  },
-  {
-    "event_id": "CUST-2026-03",
-    "title": "Customer Profitability Analysis",
-    "category": "Analysis",
-    "type": "Analysis",
-    "date": "2026-03-12",
-    "priority": "Medium"
-  },
-  {
-    "event_id": "FCST-2026-Q1",
-    "title": "Quarterly Forecast Submission (Q1)",
+    "date": "2026-07-17",
+    "title": "Forecast 3 – BPC Submission",
+    "description": "Quarterly Forecast submission",
     "category": "Forecast",
-    "type": "Forecast",
-    "date": "2026-03-18",
+    "type": "Deadline",
+    "priority": "High"
+  },
+  {
+    "date": "2026-07-21",
+    "title": "Forecast 3 – MR Deck",
+    "description": "Management review deck",
+    "category": "Forecast",
+    "type": "Deliverable",
+    "priority": "High"
+  },
+  {
+    "date": "2026-07-29",
+    "title": "Forecast 3 – PPT Deck",
+    "description": "Final PPT deck submission",
+    "category": "Forecast",
+    "type": "Submission",
+    "priority": "High"
+  },
+  {
+    "date": "2026-07-31",
+    "title": "Q2 Tax Reporting",
+    "description": "Quarterly tax reporting",
+    "category": "Tax",
+    "type": "Deadline",
     "priority": "High"
   },
 
   {
-    "event_id": "FCST-2026-Q2",
-    "title": "Quarterly Forecast Submission (Q2)",
-    "category": "Forecast",
-    "type": "Forecast",
-    "date": "2026-06-18",
+    "date": "2026-08-10",
+    "title": "Monthly BPC Reporting",
+    "description": "July reporting",
+    "category": "Reporting",
+    "type": "Deadline",
     "priority": "High"
   },
   {
-    "event_id": "FCST-2026-Q3",
-    "title": "Quarterly Forecast Submission (Q3)",
-    "category": "Forecast",
-    "type": "Forecast",
-    "date": "2026-09-18",
+    "date": "2026-08-11",
+    "title": "Monthly PPT Comments",
+    "description": "PPT comments – July",
+    "category": "Management Deck",
+    "type": "Review",
+    "priority": "Medium"
+  },
+  {
+    "date": "2026-08-14",
+    "title": "WAVE Reporting",
+    "description": "Actuals & KPI reporting",
+    "category": "Reporting",
+    "type": "Submission",
     "priority": "High"
   },
   {
-    "event_id": "FCST-2026-Q4",
-    "title": "Quarterly Forecast Submission (Q4)",
-    "category": "Forecast",
-    "type": "Forecast",
-    "date": "2026-12-18",
+    "date": "2026-08-21",
+    "title": "Guarantee Reporting (Mid-Year)",
+    "description": "Mid-year guarantee reporting",
+    "category": "Compliance",
+    "type": "Deadline",
     "priority": "High"
+  },
+
+  {
+    "date": "2026-09-08",
+    "title": "Monthly BPC Reporting",
+    "description": "August reporting",
+    "category": "Reporting",
+    "type": "Deadline",
+    "priority": "High"
+  },
+  {
+    "date": "2026-09-09",
+    "title": "Monthly PPT Comments",
+    "description": "PPT comments – August",
+    "category": "Management Deck",
+    "type": "Review",
+    "priority": "Medium"
+  },
+  {
+    "date": "2026-09-14",
+    "title": "WAVE Reporting",
+    "description": "Actuals & KPI",
+    "category": "Reporting",
+    "type": "Submission",
+    "priority": "High"
+  },
+
+  {
+    "date": "2026-10-08",
+    "title": "Monthly BPC Reporting",
+    "description": "September reporting",
+    "category": "Reporting",
+    "type": "Deadline",
+    "priority": "High"
+  },
+  {
+    "date": "2026-10-09",
+    "title": "Monthly PPT Comments",
+    "description": "PPT comments – September",
+    "category": "Management Deck",
+    "type": "Review",
+    "priority": "Medium"
+  },
+  {
+    "date": "2026-10-14",
+    "title": "Forecast 4 – BPC Submission",
+    "description": "Quarterly forecast submission",
+    "category": "Forecast",
+    "type": "Deadline",
+    "priority": "High"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Forecast 4 – MR Deck",
+    "description": "Management review deck",
+    "category": "Forecast",
+    "type": "Deliverable",
+    "priority": "High"
+  },
+  {
+    "date": "2026-10-16",
+    "title": "Q3 Tax Reporting",
+    "description": "Quarterly tax reporting",
+    "category": "Tax",
+    "type": "Deadline",
+    "priority": "High"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Forecast 4 – PPT Deck",
+    "description": "Final deck submission",
+    "category": "Forecast",
+    "type": "Submission",
+    "priority": "High"
+  },
+
+  {
+    "date": "2026-11-09",
+    "title": "Monthly BPC Reporting",
+    "description": "October reporting",
+    "category": "Reporting",
+    "type": "Deadline",
+    "priority": "High"
+  },
+  {
+    "date": "2026-11-10",
+    "title": "Monthly PPT Comments",
+    "description": "PPT comments – October",
+    "category": "Management Deck",
+    "type": "Review",
+    "priority": "Medium"
+  },
+  {
+    "date": "2026-11-13",
+    "title": "WAVE Reporting",
+    "description": "Actuals & KPI",
+    "category": "Reporting",
+    "type": "Submission",
+    "priority": "High"
+  },
+
+  {
+    "date": "2026-12-08",
+    "title": "Monthly BPC Reporting",
+    "description": "November reporting",
+    "category": "Reporting",
+    "type": "Deadline",
+    "priority": "High"
+  },
+  {
+    "date": "2026-12-09",
+    "title": "Monthly PPT Comments",
+    "description": "PPT comments – November",
+    "category": "Management Deck",
+    "type": "Review",
+    "priority": "Medium"
+  },
+  {
+    "date": "2026-12-14",
+    "title": "WAVE Reporting",
+    "description": "Actuals & KPI",
+    "category": "Reporting",
+    "type": "Submission",
+    "priority": "High"
+  }
+]
   }
 ][
   { "name": "International Mother Language Day", "date": "2026-02-21" },
